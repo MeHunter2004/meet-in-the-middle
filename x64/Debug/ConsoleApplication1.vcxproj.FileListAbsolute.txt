@@ -1,0 +1,2 @@
+E:\programming\C\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+F:\final project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
